@@ -1,6 +1,6 @@
 {
   "cloakup": {
-    "domain": "ih.zorinethyx.lat",
+    "domain": "ih.zorinethyx.online",
     "path": "/checkout",
     "param": "54ct8QwSVO"
   },
@@ -8,7 +8,7 @@
     "script": "hhttps://ih.zorinethyx.online/track.js?rtkcmpid=6977fbd3aed53f6917913b14"
   },
   "vsl": {
-    "clickUrl": "https://ih.zorinethyx.lat/click",
+    "clickUrl": "https://ih.zorinethyx.online/click",
     "playerId": "vid-696cffc3521058214ca817b2",
     "playerScript": "https://scripts.converteai.net/0c720c90-e7e2-43bb-bf68-a9f95307d607/players/696cffc3521058214ca817b2/v4/player.js",
     "smartPlayerScript": "https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js"
